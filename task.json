@@ -1,0 +1,424 @@
+{
+    "name": "Software Developer",
+    "dudepoints": "11500",
+    "sourceoftheweek": "",
+    "skills": [
+      {
+        "name": "CODING",
+        "color": "#63c5da",
+        "dudepoints": "3000",
+        "percentage": "30",
+        "weektasks": [
+          {
+            "date": "21",
+            "month": "Apr",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "Task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of coding",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "Task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of coding",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "Task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of coding",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "22",
+            "month": "Apr",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "Task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of coding",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "Task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of coding",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "Task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of coding",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "23",
+            "month": "Apr",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "Task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of coding",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "Task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of coding",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "Task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of coding",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Communication",
+        "color": "#f5ca5a",
+        "dudepoints": "2000",
+        "percentage": "20",
+        "weektasks": [
+          {
+            "date": "21",
+            "month": "Apr",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of communication",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of communication",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of communication",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "22",
+            "month": "Apr",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of communication",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of communication",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of communication",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "23",
+            "month": "Apr",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of communication",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of communication",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of communication",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "color": "#8776e0",
+        "dudepoints": "3000",
+        "percentage": "30",
+        "weektasks": [
+          {
+            "date": "21",
+            "month": "4",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of data structures and algorithms",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of data structures and algorithms",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of data structures and algorithms",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "22",
+            "month": "4",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of data structures and algorithms",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of data structures and algorithms",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of data structures and algorithms",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "23",
+            "month": "4",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of data structures and algorithms",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of data structures and algorithms",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of data structures and algorithms",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Poblem-Solving",
+        "color": "#a3d2bf",
+        "dudepoints": "3500",
+        "percentage": "35",
+        "weektasks": [
+          {
+            "date": "21",
+            "month": "4",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of problem solving",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of problem solving",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of problem solving",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "22",
+            "month": "4",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of problem solving",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of problem solving",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of problem solving",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          },
+          {
+            "date": "23",
+            "month": "4",
+            "year": "2023",
+            "todayscore": 0,
+            "tasks": [
+              {
+                "taskname": "task1",
+                "taskimage": "",
+                "taskdetails": "Here you'll be getting the complete description of the task1 of problem solving",
+                "taskstatus": "notcompleted",
+                "taskpoints": "5",
+                "tasksource": ""
+              },
+              {
+                  "taskname": "task2",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task2 of problem solving",
+                  "taskstatus":"notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                },
+                {
+                  "taskname": "task3",
+                  "taskimage": "",
+                  "taskdetails": "Here you'll be getting the complete description of the task3 of problem solving",
+                  "taskstatus": "notcompleted",
+                  "taskpoints": "5",
+                  "tasksource": ""
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
